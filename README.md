@@ -30,7 +30,7 @@ This project is an AI-driven system designed to automatically summarize meetings
 | Vector Store      | FAISS                         |
 | QA Framework      | LangChain                     |
 | Report Generation | ReportLab                     |
-| Interface         | Streamlit or CLI              |
+| Interface         | Telegram Bot              |
 
 ## 📦 Installation
 
